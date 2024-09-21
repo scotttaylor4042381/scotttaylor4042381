@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Scott from Sheffield Hallam University, UK. I'm enrolled on a Degree apprenticeship programme to gain an MSc Digital & technology Solutions Specialist qualification in Software Engineering.
+
+
+
 <!--
 **scotttaylor4042381/scotttaylor4042381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
